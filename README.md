@@ -4,6 +4,6 @@
 
 ### even smaller ###
 
-**something bold#
+**something bold**
 
 _something_
